@@ -1,5 +1,5 @@
 {
-    "version": 1.0,
-    "area": "MarassiBay",
-    "url":"https://github.com/Bassem-Rabbit/BLABLA/raw/main/bike.apk"
+    "version": 1.01,
+    "area": "Marassi",
+    "url":"https://github.com/Moura96/Same/raw/main/bike-app-debug.apk"
 }
