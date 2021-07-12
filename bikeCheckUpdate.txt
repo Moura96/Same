@@ -2,8 +2,13 @@
     "version": 1.02,
     "area": "Marassi",
     "url":"https://github.com/Moura96/Same/raw/main/bike-app-debug.apk",
-    "files":2,
+    "files":7,
     "file1":"https://github.com/Bassem-Rabbit/BLABLA/raw/main/outOfFence.mp3",
-    "file2":"https://github.com/Bassem-Rabbit/BLABLA/raw/main/lockEngaged.mp3"
+    "file2":"https://github.com/Bassem-Rabbit/BLABLA/raw/main/lockEngaged.mp3",
+    "file3":"https://github.com/Bassem-Rabbit/BLABLA/raw/main/autoEndWarning.mp3",
+    "file4":"https://github.com/Bassem-Rabbit/BLABLA/raw/main/autoEnd.mp3",
+    "file5":"https://github.com/Bassem-Rabbit/BLABLA/raw/main/batteryLowWarning.mp3",
+    "file6":"https://github.com/Bassem-Rabbit/BLABLA/raw/main/criticalBattery.mp3",
+    "file7":"https://github.com/Bassem-Rabbit/BLABLA/raw/main/lowNetwork.mp3"
     
 }
