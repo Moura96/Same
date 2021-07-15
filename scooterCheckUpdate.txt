@@ -1,7 +1,7 @@
 {
     "version": 30.29,
     "area": "All",
-    "url":"https://github.com/Moura96/Same/raw/main/scooter-app-debug.apk",
+    "url":"https://github.com/Moura96/Same/raw/main/scooter-30.3-app-debug.apk",
     "files":4,
     "file1":"https://github.com/Bassem-Rabbit/BLABLA/raw/main/outOfFence.mp3",
     "file3":"https://github.com/Bassem-Rabbit/BLABLA/raw/main/autoEndWarning.mp3",
